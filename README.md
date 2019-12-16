@@ -60,3 +60,14 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Favicon
+
+The favicon was built using: https://favicon.io/favicon-generator/
+The specs are: 
+* Text: tC
+* Background: Circle
+* Font Family: ABeeZee
+* Font Size: 80
+* Font Color: #ADF
+* Background Color: #222
