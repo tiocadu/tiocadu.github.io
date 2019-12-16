@@ -15,7 +15,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "deploy": "cp -r build/ ."
+    "deploy": "cp -r build/ .",
+    "to:prod": "npm run build && npm run deploy"
   },
   "eslintConfig": {
     "extends": "react-app"

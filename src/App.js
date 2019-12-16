@@ -11,7 +11,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p> */}
         <h1>
-          I'm tiocadu and this site is in construction.
+          I'm tiocadu and this site is under construction.
         </h1>
         <h2>
           I'm a Software Engineer currently working at
