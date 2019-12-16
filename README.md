@@ -64,7 +64,9 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ### Favicon
 
 The favicon was built using: https://favicon.io/favicon-generator/
+
 The specs are: 
+
 * Text: tC
 * Background: Circle
 * Font Family: ABeeZee
