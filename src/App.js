@@ -16,12 +16,12 @@ function App() {
         <h2>
           I'm a Software Engineer currently working at
           <a
-            className="Loft-link"
-            href="https://www.loft.com.br"
+            className="Melvi-link"
+            href="https://www.melvisaude.com.br"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Loft
+            Melvi
           </a>
           .
         </h2>
